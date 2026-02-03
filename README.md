@@ -6,6 +6,9 @@ This project demonstrates how form inputs are controlled by React state and how 
 
 ---
 
+## Live Preview
+https://mini-profile-editor.netlify.app/
+
 ## 🚀 Features
 
 * Name input field (controlled)
